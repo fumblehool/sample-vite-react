@@ -1,7 +1,7 @@
 spec:
   name: sample-vite-react
   services:
-  - environment_slug: node-js
+  - environment_slug: Dockerfile
     git:
       branch: main
       repo_clone_url: https://github.com/fumblehool/sample-vite-react.git
